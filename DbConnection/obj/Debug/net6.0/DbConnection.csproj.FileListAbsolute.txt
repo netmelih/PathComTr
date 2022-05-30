@@ -1,0 +1,14 @@
+C:\Users\netme\source\repos\PathComTr\DbConnection\bin\Debug\net6.0\DbConnection.deps.json
+C:\Users\netme\source\repos\PathComTr\DbConnection\bin\Debug\net6.0\DbConnection.runtimeconfig.json
+C:\Users\netme\source\repos\PathComTr\DbConnection\bin\Debug\net6.0\DbConnection.dll
+C:\Users\netme\source\repos\PathComTr\DbConnection\bin\Debug\net6.0\DbConnection.pdb
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.csproj.AssemblyReference.cache
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.AssemblyInfoInputs.cache
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.AssemblyInfo.cs
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.dll
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\refint\DbConnection.dll
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.pdb
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\DbConnection.genruntimeconfig.cache
+C:\Users\netme\source\repos\PathComTr\DbConnection\obj\Debug\net6.0\ref\DbConnection.dll

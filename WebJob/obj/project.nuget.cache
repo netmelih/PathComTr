@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6zpYUtoZDEyICv2F5s3tRMRr0au1zL/YZyOAKyWkQvZKH87q90DI1qvBTwuX+Z44WXUZKu54+An1HwVJLTHKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\netme\\source\\repos\\PathComTr\\WebJob\\WebJob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\netme\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\netme\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\netme\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

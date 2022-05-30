@@ -1,0 +1,17 @@
+C:\Users\netme\source\repos\PathComTr\WebJob\bin\Debug\net6.0\WebJob.exe
+C:\Users\netme\source\repos\PathComTr\WebJob\bin\Debug\net6.0\WebJob.deps.json
+C:\Users\netme\source\repos\PathComTr\WebJob\bin\Debug\net6.0\WebJob.runtimeconfig.json
+C:\Users\netme\source\repos\PathComTr\WebJob\bin\Debug\net6.0\WebJob.dll
+C:\Users\netme\source\repos\PathComTr\WebJob\bin\Debug\net6.0\WebJob.pdb
+C:\Users\netme\source\repos\PathComTr\WebJob\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.csproj.AssemblyReference.cache
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.AssemblyInfoInputs.cache
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.AssemblyInfo.cs
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.csproj.CoreCompileInputs.cache
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.csproj.CopyComplete
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.dll
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\refint\WebJob.dll
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.pdb
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\WebJob.genruntimeconfig.cache
+C:\Users\netme\source\repos\PathComTr\WebJob\obj\Debug\net6.0\ref\WebJob.dll

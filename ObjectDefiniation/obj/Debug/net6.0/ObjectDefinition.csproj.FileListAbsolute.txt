@@ -1,0 +1,12 @@
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\bin\Debug\net6.0\ObjectDefinition.deps.json
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\bin\Debug\net6.0\ObjectDefinition.dll
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\bin\Debug\net6.0\ObjectDefinition.pdb
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.csproj.AssemblyReference.cache
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.AssemblyInfoInputs.cache
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.AssemblyInfo.cs
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.csproj.CoreCompileInputs.cache
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.dll
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\refint\ObjectDefinition.dll
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ObjectDefinition.pdb
+C:\Users\netme\source\repos\PathComTr\ObjectDefiniation\obj\Debug\net6.0\ref\ObjectDefinition.dll
